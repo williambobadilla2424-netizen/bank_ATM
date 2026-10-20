@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/USUARIO/OneDrive/Documentos/NetBeansProjects/exceptionsWorkshop/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USUARIO/OneDrive/Documentos/NetBeansProjects/exceptionsWorkshop/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'exceptionsWorkshop 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'exceptionsWorkshop 1.0-SNAPSHOT API'
+com.uptc.exceptions
+com.uptc.logic
+com.uptc.models
+com.uptc.view
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\src\main\java = 1791580111143
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\allclasses-index.html = 1791585912898
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\allpackages-index.html = 1791585912903
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\element-list = 1791585912655
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\help-doc.html = 1791585912958
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\index-all.html = 1791585912940
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\index.html = 1791585912874
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\member-search-index.js = 1791585912915
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\module-search-index.js = 1791585912906
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\overview-summary.html = 1791585912952
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\overview-tree.html = 1791585912851
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\package-search-index.js = 1791585912909
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\search.html = 1791585912947
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\serialized-form.html = 1791585912755
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\tag-search-index.js = 1791585912919
+C:\Users\USUARIO\OneDrive\Documentos\NetBeansProjects\exceptionsWorkshop\target\reports\apidocs\type-search-index.js = 1791585912912

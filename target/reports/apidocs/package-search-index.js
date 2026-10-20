@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.uptc.exceptions"},{"l":"com.uptc.logic"},{"l":"com.uptc.models"},{"l":"com.uptc.view"}];updateSearchResults();
